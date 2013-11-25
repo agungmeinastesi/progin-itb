@@ -26,3 +26,5 @@ git clone https://github.com/khairaniummah/II3160-Tugas2-18211055-18211026.git
 git clone https://github.com/khairaniummah/BernadetteVina.git
 git clone https://github.com/andyprimawan/habib-andy.git
 git clone https://github.com/khairaniummah/II3160-18211003-18211050.git
+git clone https://github.com/riomudita/18210028.git
+git clone https://github.com/agungmeinastesi/programan_integratif.git
